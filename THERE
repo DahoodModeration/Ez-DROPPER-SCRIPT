@@ -1,0 +1,3 @@
+getgenv().HostUser = "MoJacobYt"
+getgenv().Alts = {4164212608, 4164215137, 4164216856, 2392326227 } --make sure to put space after every comma as shown in example
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Msorky/Duckys-return/main/Aura%22%5D%20%3D', true))()
